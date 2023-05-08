@@ -1,3 +1,3 @@
 <?php
-echo 'df teset gdfg';
+echo 'df teset';
 ?>
